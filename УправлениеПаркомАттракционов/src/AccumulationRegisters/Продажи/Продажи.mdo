@@ -35,6 +35,20 @@
     <maxValue xsi:type="core:UndefinedValue"/>
     <fullTextSearch>Use</fullTextSearch>
   </resources>
+  <dimensions uuid="d470b31e-a0ea-40d3-92d9-3e7e151aba9e">
+    <name>Клиент</name>
+    <synonym>
+      <key>ru</key>
+      <value>Клиент</value>
+    </synonym>
+    <type>
+      <types>CatalogRef.Клиенты</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <useInTotals>true</useInTotals>
+  </dimensions>
   <dimensions uuid="8f91b425-c820-463a-9a9a-ec0d58511e2c">
     <name>ВидАттракциона</name>
     <synonym>
